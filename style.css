@@ -119,7 +119,7 @@ nav ul {
 
 /* TOP CONTENT */
 .top-content {
-    background-image: linear-gradient(to bottom, rgba(32, 33, 37, 1) 1%, rgba(32, 33, 37, 0.6) 20%, rgba(32, 33, 37, 0.1) 79%), url(https://rawcdn.githack.com/Airitsune/LP_Kitsunesubs/bb2ee1161c5fc6d9ac355849bcc4df92d86a5aac/img/kitsune-bg.jpg);
+    background-image: linear-gradient(to bottom, rgba(32, 33, 37, 1) 1%, rgba(32, 33, 37, 0.6) 20%, rgba(32, 33, 37, 0.1) 79%), url(https://raw.githack.com/Airitsune/LP_Kitsunesubs/main/img/kitsune-bg.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
